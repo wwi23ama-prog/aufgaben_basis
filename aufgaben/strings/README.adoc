@@ -1,1 +1,6 @@
 = Aufgaben zu Strings
+
+Aufgaben, bei denen Strings untersucht und manipuliert werden müssen.
+
+Diese Aufgaben können mittels Funktionen, Schleifen und Bedingungen gelöst werden.
+Zusätzlich kann es sinnvoll sein, das Package `strings` aus der Standardbibliothek zu benutzen.

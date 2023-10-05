@@ -2,7 +2,6 @@ package stringfuncs
 
 // Erwartet einen string s und zählt, wie oft der Buchstabe 'A' in s vorkommt.
 func CountA(s string) int {
-	// ANMERKUNG: Diese Funktion ist ein Beispiel, hier ist (noch) nichts zu tun.
 	result := 0
 	for _, char := range s {
 		if char == 'A' {
@@ -25,7 +24,6 @@ func CountChar(s string, c rune) int {
 // Erwartet einen String s und liefert einen neuen String,
 // in dem jeder Buchstabe aus s zweimal hintereinander vorkommt.
 func DuplicateChars(s string) string {
-	// ANMERKUNG: Diese Funktion ist ein Beispiel, hier ist nichts zu tun.
 	result := ""
 	for _, char := range s {
 		result += string(char)
